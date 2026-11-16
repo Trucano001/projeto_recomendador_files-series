@@ -63,13 +63,13 @@ Na versão com pesos, essa similaridade também é utilizada para determinar a i
 Exemplo:
 
 ```bash
-python recomendador_sem_pesos.py
+python projeto_sem_pesos.py
 ```
 
 Ou, para executar a versão com pesos:
 
 ```bash
-python recomendador_com_pesos.py
+python projeto_com_pesos.py
 ```
 
 Durante a execução, o programa solicitará as avaliações dos filmes e das séries e, posteriormente, apresentará as recomendações.
